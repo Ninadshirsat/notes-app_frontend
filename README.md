@@ -27,20 +27,20 @@ This is the frontend repository for a notes application built with **React** and
 2. **Navigate to the project directory:**
 
 ```bash
-cd notes-app_frontend
+   cd notes-app_frontend
 ```
 
 3. **Install dependencies:**
 
 ```bash
-npm install
+   npm install
 ```
 
 4. **▶️ Usage**
    Start the development server:
 
 ```bash
-npm run dev
+   npm run dev
 ```
 
 Open your browser and go to http://localhost:5173 (or the port specified by Vite) to view the application.
@@ -70,19 +70,19 @@ Contributions are welcome!
 2. **Create your feature branch:**
 
 ```bash
-git checkout -b feature/AmazingFeature
+   git checkout -b feature/AmazingFeature
 ```
 
 3. **Commit your changes:**
 
 ```bash
-git commit -m 'Add some AmazingFeature'
+   git commit -m 'Add some AmazingFeature'
 ```
 
 4. **Push to the branch:**
 
 ```bash
-git push origin feature/AmazingFeature
+   git push origin feature/AmazingFeature
 ```
 
 5. **Open a Pull Request**
