@@ -61,9 +61,9 @@ useEffect(() => {
 When the app loads, it fetches notes from localStorage.
 Any changes (add, edit, delete) are automatically synced to localStorage.
 
-🤝 Contributing
-Contributions are welcome!
-**To contribute:**
+- **🤝 Contributing**
+  Contributions are welcome!
+- **To contribute:**
 
 1. **Fork the project.**
 
